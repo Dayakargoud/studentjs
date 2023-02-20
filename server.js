@@ -1,5 +1,5 @@
 const express = require('express')
-const studentsRoutes = require('../student/routes')
+const studentsRoutes = require('./routes')
 
 const app = express()
 const port = 8003
